@@ -1,16 +1,16 @@
-# DroneCharmer
+  # DroneCharmer
 
-THE MAN THE MYTH THE LEGEND SAMI KAMKAR was the og here. i just modded it and wrote it in python.
+DroneCharmer is a Python-based tool aimed at reducing the amount of death caused by drones in Ukraine. It is built upon the work of the legendary Samy Kamkar and further modified and implemented in Python.
 
-# DroneCharmer
+## Description
 
-DroneCharmer.py is a Python-based tool designed for drone detection, identification, and countermeasures. It provides functionalities to identify and hijack drones, as well as implement various countermeasures for neutralizing drone threats.
+DroneCharmer.py is a powerful tool designed for drone detection, identification, and countermeasures. Its primary objective is to identify and neutralize unauthorized drones, providing a comprehensive solution to mitigate the risks associated with drone-related threats.
 
 ## Features
 
 - Drone detection and identification using MAC address and Wi-Fi signal analysis.
 - Drone hijacking capabilities for taking control of unauthorized drones.
-- Integration of countermeasures such as RF signal jamming, laser-based systems, drone capture nets, directed energy weapons, and explosive countermeasures.
+- Integration of various countermeasures such as RF signal jamming, laser-based systems, drone capture nets, directed energy weapons, and explosive countermeasures.
 
 ## Requirements
 
@@ -22,41 +22,36 @@ DroneCharmer.py is a Python-based tool designed for drone detection, identificat
 
 1. Clone the DroneCharmer repository:
 
-git clone https://github.com/tukru/dronecharmer.git
+   ```bash
+   git clone https://github.com/tukru/dronecharmer.git
+Install the required Python dependencies:
 
-markdown
+bash
 
+    pip install -r requirements.txt
 
-2. Install the required Python dependencies:
+    Set up the hardware and ensure the Wi-Fi cards are in monitor mode.
 
-pip install -r requirements.txt
+Usage
 
-markdown
-
-
-3. Set up the hardware and ensure the Wi-Fi cards are in monitor mode.
-
-## Usage
-
-1. Modify the script settings and configurations in `DroneCharmer.py` to suit your environment and preferences.
-
-2. Run the DroneCharmer script:
-
-python DroneCharmer.py
-
-csharp
+    Modify the script settings and configurations in DroneCharmer.py to suit your environment and preferences.
 
 
-3. Follow the on-screen instructions to perform drone detection, hijacking, and countermeasures.
+    Run the DroneCharmer script:
 
-## Legal Considerations
+
+    python DroneCharmer.py
+
+
+    Follow the on-screen instructions to perform drone detection, hijacking, and countermeasures.
+
+Legal Considerations
 
 Ensure that you comply with local laws and regulations regarding the use of this tool. DroneCharmer should only be used in authorized scenarios and for educational or research purposes.
-
-## Contributing
+Contributing
 
 Contributions are welcome! If you have any improvements, bug fixes, or new features to suggest, please submit a pull request.
 
 ## License
 
-DroneCharmer is released under the [MIT License](LICENSE).
+DroneCharmer is released under the MIT License. By using this tool, you acknowledge that the author and contributors hold no liability for any damages or consequences arising from its use. It is your responsibility to ensure compliance with local laws and regulations regarding the use of this tool. DroneCharmer should only be used in authorized scenarios and for educational or research purposes.
