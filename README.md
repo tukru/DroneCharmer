@@ -1,6 +1,6 @@
   # DroneCharmer
 
-DroneCharmer is a Python-based tool aimed at reducing the amount of death caused by drones in Ukraine. It is built upon the work of the legendary Samy Kamkar and further modified and implemented in Python.
+DroneCharmer is a Python-based tool "aimed" at reducing the amount of death caused by drones dropping granades in Ukraine. It is built upon the work of the legendary Samy Kamkar and further modified and implemented in Python.
 
 ## Description
 
